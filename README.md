@@ -1,4 +1,4 @@
-# Text-Extraction-From-Video-Using-OCR
+# Text-Extraction-From-Video-Using-Tesseract-OCR
 
 This project uses Tesseract-OCR to recognize the text from the frames in the video and then creates a .docx file and writes all the recognized text from the video in the form of notes.
 
